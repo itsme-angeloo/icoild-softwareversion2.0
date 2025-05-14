@@ -1,0 +1,178 @@
+[
+    {
+        "image": "Unknown_Tree_F0_20250503_232619.jpg",
+        "timestamp": "20250503_232619",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.7210791110992432,
+                "bounding_box": [
+                    251,
+                    110,
+                    278,
+                    147
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250503_232658.jpg",
+        "timestamp": "20250503_232658",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.6037853956222534,
+                "bounding_box": [
+                    217,
+                    423,
+                    241,
+                    448
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250503_233432.jpg",
+        "timestamp": "20250503_233432",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.5341588258743286,
+                "bounding_box": [
+                    397,
+                    198,
+                    462,
+                    268
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250503_233435.jpg",
+        "timestamp": "20250503_233435",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.6412723660469055,
+                "bounding_box": [
+                    294,
+                    464,
+                    366,
+                    546
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250503_233437.jpg",
+        "timestamp": "20250503_233437",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.522205650806427,
+                "bounding_box": [
+                    256,
+                    507,
+                    323,
+                    588
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250503_233445.jpg",
+        "timestamp": "20250503_233445",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.5544829368591309,
+                "bounding_box": [
+                    354,
+                    235,
+                    428,
+                    310
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250503_233502.jpg",
+        "timestamp": "20250503_233502",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.5023552775382996,
+                "bounding_box": [
+                    212,
+                    327,
+                    274,
+                    401
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250504_002810.jpg",
+        "timestamp": "20250504_002810",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.7032683491706848,
+                "bounding_box": [
+                    395,
+                    234,
+                    424,
+                    262
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250504_002813.jpg",
+        "timestamp": "20250504_002813",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.6208122372627258,
+                "bounding_box": [
+                    395,
+                    252,
+                    424,
+                    281
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250504_002913.jpg",
+        "timestamp": "20250504_002913",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.6806014776229858,
+                "bounding_box": [
+                    397,
+                    192,
+                    422,
+                    221
+                ]
+            }
+        ]
+    },
+    {
+        "image": "Unknown_Tree_F0_20250504_002916.jpg",
+        "timestamp": "20250504_002916",
+        "detections": [
+            {
+                "class": "Cocolisap",
+                "confidence": 0.8218002319335938,
+                "bounding_box": [
+                    412,
+                    341,
+                    469,
+                    395
+                ]
+            }
+        ]
+    }
+]
